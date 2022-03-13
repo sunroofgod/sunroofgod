@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sunroofgod
-- 👀 I’m currently learning R and python
+- 👋 Hi, I’m Kah Seng
+- Currently doing up personal projects / creating games using pygame in my free time
 
 
 <!---
