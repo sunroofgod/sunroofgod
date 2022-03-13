@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kah Seng
 - Currently doing up personal projects / creating games using pygame in my free time
+- Interested in data visualisation
 
 
 <!---
