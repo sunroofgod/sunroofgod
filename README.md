@@ -2,7 +2,7 @@
 ## I'm currently a student studying at the National University of Singapore
 - 👯 i'm currently working on {Dimensionality Reduction and Clustering for Pairs Trading}
 - 🥅 my interests include: piano, theatre, basketball
-- 🔭 looking forward to learn more about implementation of various ML techniques as well as work flow
+- 🔭 looking forward to learn more about ML and algorithms
 ### Languages & Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
