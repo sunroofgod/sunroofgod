@@ -1,8 +1,8 @@
 # 👋 Hi there! I’m Kah Seng
 ## I'm currently a student studying at the National University of Singapore
-- 👯 i'm currently working on {Dimensionality Reduction and Clustering for Pairs Trading}
-- 🥅 my interests include: piano, theatre, basketball
-- 🔭 looking forward to learn more about ML and algorithms
+- 👯 i'm currently working on {NLP, Chatbots, Neural Networks}
+- 🥅 my interests include: Piano, Theatre, NBA
+- 🔭 looking forward to dive deep into the world of Neural Networks, specifically NLP
 ### Languages & Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
