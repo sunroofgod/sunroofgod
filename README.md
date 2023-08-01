@@ -9,7 +9,5 @@ I am a:
 #### Contact Information:
 - Email: `kahseng <at> u.nus.edu`
 
-#### Projects:
-- \[wip] Cashoutopia: Full-stack web application with implementation of popular card games.
-    - Stack: {React, Next, MongoDB}
+#### Ongoing Projects:
 - catti.nvim: A plugin that adds cats and joy (non-mutually exclusive) into your already wonderful neovim experience.
