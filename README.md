@@ -10,4 +10,4 @@ I am a:
 - Email: `kahseng <at> u.nus.edu`
 
 #### Ongoing Projects:
-- Nothing at the moment -- focusing on internship contributions and maintaing packages as mentioned above,
+- Nothing at the moment -- focusing on internship contributions and maintaing packages as mentioned above.
