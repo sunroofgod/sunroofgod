@@ -12,5 +12,4 @@ I am a:
 - Nothing at: the moment -- focusing on onboarding.
 
 #### Past Contributions:
-- Core Maintainer & Developer @ [dabestr](https://github.com/ACCLAB/dabestr/tree/master).
-- Core Maintainer & Developer @ [DABEST-python](https://github.com/ACCLAB/DABEST-python).
+- Core Maintainer & Developer @ [dabestr](https://github.com/ACCLAB/dabestr/tree/master), [DABEST-python](https://github.com/ACCLAB/DABEST-python).
