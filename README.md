@@ -1,7 +1,7 @@
 ### Kahseng Lian
 
 I am a:
-- Graduate Software Engineer @ [Suade](https://suade.org/)
+- Software Engineer 1 @ [Suade](https://suade.org/)
 - BS. Data Science Graduate @ [NUS](https://www.nus.edu.sg/)
 - 🐈 Cat lover @ heart
 
